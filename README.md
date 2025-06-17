@@ -28,6 +28,6 @@ I'm a Machine Learning researcher and PhD candidate at ASU, working on **probabi
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahinAbrar&layout=compact)
 
 ### 🌐 Connect with Me
-- 🔗 [LinkedIn](https://linkedin.com/in/zahinabrar)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abrar-zahin-a293668b)
 - 📝 [Google Scholar](https://scholar.google.com)
-- 🌍 [Website](https://your-website-link.com) <!-- Replace with real link -->
+- 🌍 [Website](https://zahinabrar.github.io) <!-- Replace with real link -->
