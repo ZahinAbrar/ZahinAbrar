@@ -3,8 +3,8 @@
 I'm a Machine Learning researcher and PhD candidate at ASU, working on **probabilistic graphical models**, **reinforcement learning**, and **computationally efficient algorithms** for large-scale networked systems.
 
 ### 🔬 Research Interests
-- Probabilistic Graphical Models (GGMs)
-- Time Series & Structure Learning
+- Probabilistic Graphical Models 
+- Statistical Machine Learning
 - Multimodal ML & Foundation Models
 - ML Systems for IoT, Energy, and Healthcare
 - Speech, Vision & Scientific ML
