@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Abrar Zahin
 
-<!--
-**ZahinAbrar/ZahinAbrar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Machine Learning researcher and PhD candidate at ASU, working on **probabilistic graphical models**, **reinforcement learning**, and **computationally efficient algorithms** for large-scale networked systems.
 
-Here are some ideas to get you started:
+### 🔬 Research Interests
+- Probabilistic Graphical Models (GGMs)
+- Time Series & Structure Learning
+- Multimodal ML & Foundation Models
+- ML Systems for IoT, Energy, and Healthcare
+- Speech, Vision & Scientific ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, C++, Bash, SQL  
+- **Frameworks:** PyTorch, TensorFlow, Scikit-learn, HuggingFace  
+- **Tools:** Docker, FastAPI, Azure ML, Databricks, Kubernetes  
+- **MLOps:** CI/CD, microservices, containerization, REST APIs  
+- **Data Science:** pandas, NumPy, Seaborn, Airflow, Spark
+
+### 🧠 Featured Projects
+- 🧪 Scientific ML Agent for Reinforcement Learning & LLMs  
+- 📊 Graph Structure Learning from Covariance Queries  
+- 🏥 ML for Fall Detection in Smart Healthcare  
+- 🤖 Autonomous System Planning with RL & Probabilistic Reasoning  
+- 🎞️ Multimodal Transformers for Video Understanding
+
+### 📈 GitHub Stats
+![ZahinAbrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZahinAbrar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahinAbrar&layout=compact)
+
+### 🌐 Connect with Me
+- 🔗 [LinkedIn](https://linkedin.com/in/zahinabrar)
+- 📝 [Google Scholar](https://scholar.google.com)
+- 🌍 [Website](https://your-website-link.com) <!-- Replace with real link -->
