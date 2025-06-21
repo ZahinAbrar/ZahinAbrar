@@ -24,8 +24,11 @@ I'm a Machine Learning researcher and PhD candidate at ASU, working on **probabi
 - 🎞️ Multimodal Transformers for Video Understanding
 
 <!-- ### 📈 GitHub Stats
+
 ![ZahinAbrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZahinAbrar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahinAbrar&layout=compact) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahinAbrar&layout=compact) 
+
+-->
 
 ### 🌐 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abrar-zahin-a293668b)
