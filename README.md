@@ -3,9 +3,10 @@
 I'm a Machine Learning research fellow at Mayo Clinic. I completed my PhD from ASU where I worked on **probabilistic graphical models**, **reinforcement learning**, and **computationally efficient algorithms** for large-scale networked systems.
 
 ### 🔬 Research Interests
+- Multimodal Foundation Models
 - Probabilistic Graphical Models 
 - Statistical Machine Learning
-- Multimodal ML & Foundation Models
+- Graph Machine Learning
 - ML Systems for IoT, Energy, and Healthcare
 - Speech, Vision & Scientific ML
 
