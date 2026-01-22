@@ -8,7 +8,6 @@ I'm a Machine Learning research fellow at Mayo Clinic. I completed my PhD from A
 - Statistical Machine Learning
 - Graph Machine Learning
 - ML Systems for IoT, Energy, and Healthcare
-- Speech, Vision & Scientific ML
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Python, C++, Bash, SQL  
