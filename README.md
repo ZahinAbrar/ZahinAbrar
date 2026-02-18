@@ -7,7 +7,7 @@ I'm a Machine Learning Research Fellow at Mayo Clinic. I completed my PhD from A
 - Probabilistic Graphical Models 
 - Statistical Machine Learning
 - Graph Machine Learning
-- ML Systems for IoT, Energy, and Healthcare
+- ML Systems for IoT and Healthcare
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Python, C++, Bash, SQL  
