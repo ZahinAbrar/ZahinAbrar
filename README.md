@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abrar Zahin
 
-I'm a Machine Learning Research Fellow at Mayo Clinic. I completed my PhD from ASU where I worked on **probabilistic graphical models**, **reinforcement learning**, and **computationally efficient algorithms** for large-scale networked systems.
+I'm a Machine Learning Research Fellow at Mayo Clinic. I completed my PhD from ASU where I worked on **probabilistic graphical models**, **reinforcement learning**, and **computationally efficient ML algorithms** for large-scale networked systems.
 
 ### 🔬 Research Interests
 - Multimodal Foundation Models
