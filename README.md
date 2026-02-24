@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abrar Zahin
 
 
-I'm a Machine Learning Research Fellow at Mayo Clinic developing multimodal foundation models for digital pathology, combining vision transformers, clinical language models, and graph-based learning for scalable, clinically grounded AI systems
+I'm a Machine Learning Research Fellow at Mayo Clinic developing multimodal foundation models for digital pathology, combining vision transformers, clinical language models, and graph-based learning for scalable, clinically grounded AI systems.
 
 I completed my PhD at Arizona State University, where I worked on **statistical machine learning**, **probabilistic graphical models**, and **computationally efficient learning algorithms** for large-scale structured data.
 
