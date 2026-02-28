@@ -8,9 +8,9 @@ I completed my PhD at Arizona State University, where I worked on **statistical 
 
 ### 🔬 Research Interests
 - Multimodal Foundation Models
+- Diffusion Models
 - Probabilistic Graphical Models 
 - Statistical Machine Learning
-- Diffusion Models
 - Graph Machine Learning
 - ML Systems for IoT and Healthcare
 
